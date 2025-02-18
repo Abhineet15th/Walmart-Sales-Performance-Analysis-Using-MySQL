@@ -34,7 +34,12 @@ Additionally, all SQL analysis has been **visualized in Power BI** through **rep
 🔍 **Why This Project?**  
 I built this project **from scratch** to showcase my **SQL expertise** and ability to perform **real-world data analysis**. This project not only demonstrates my SQL skills but also highlights how **data visualization in Power BI** can transform raw data into meaningful insights for businesses to **optimize sales strategies and improve decision-making**.  
 
-📁 **Dataset:** [Walmart Sales Dataset](https://docs.google.com/spreadsheets/d/1O-j6vD_uMm37pzYwvhVToTqZxw_01OTB0x2q0z00Yrc/edit?usp=sharing)  
+📂 **Repository Structure:**  
+📜 **README.md** – Contains full project documentation, objectives, SQL techniques used, and results.  
+📁 **Dataset** – `Walmart Sales Dataset.csv` (Raw data used for analysis).  
+📜 **Visualization.pdf** – Contains all Power BI **reports and visualizations** based on SQL analysis.  
+📜 **Walmart_Project.sql** – SQL script with all queries for data analysis.  
+📜 **Walmart_Tasks.pdf** – Document listing all analysis tasks performed in SQL.  
 
 🚀 **Technologies Used:**  
 🔹 MySQL  
